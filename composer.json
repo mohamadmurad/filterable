@@ -1,10 +1,10 @@
 {
-    "name": "mero/filterable",
+    "name": "muradsoft/filterable",
     "license": "MIT",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Mero\\Filterable\\": "src/"
+            "Muradsoft\\Filterable\\": "src/"
         }
     },
     "authors": [

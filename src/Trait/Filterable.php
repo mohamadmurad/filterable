@@ -1,5 +1,5 @@
 <?php
-namespace Mero\Filterable\Trait;
+namespace Muradsoft\Filterable\Trait;
 
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Support\Arr;
